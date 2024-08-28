@@ -5,7 +5,7 @@
 
 How to reach me ----> https://guns.lol/Talentueux <---- For more information
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Terminal Hacker Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=500&height=150&lines=%24+echo+%22Hacking+in+progress...%22;%24+ping+google.com+;+Scanning+network+for+vulnerabilities...;%24+Access+granted!" alt="Hacking Animation">
 </div>
 
 ____ 
