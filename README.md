@@ -5,7 +5,9 @@
 
 How to reach me ----> https://guns.lol/Talentueux <---- For more information
   
-                              💞️ I’m looking to collaborate with HackForce (EU-Anonymous)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosquito1337&theme=github&bg_color=0d1117&color=58a6ff&line=0a84ff&point=58a6ff&area=true&hide_border=true&radius=12" alt="GitHub Activity Graph">
+</div>
 ____ 
 
 Programming Languages
