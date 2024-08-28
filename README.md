@@ -34,11 +34,9 @@ free time
 
 osint and all these varieties (csint, geoint, etc...)
 --
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=500&height=150&lines=%24+echo+%22Hacking+in+progress...%22;%24+ping+google.com+;+Scanning+network+for+vulnerabilities...;%24+Access+granted!" alt="Hacking Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=bold&size=14&duration=20&pause=500&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=650&height=120&lines=%24+Initializing+system+...;%24+Bypassing+firewall...;%24+Accessing+database...;%24+Injecting+payload+%3E%3E+Success!;%24+Encrypting+files...;%24+Log+cleared...;%24+Disconnecting..." alt="Hacker Terminal Animation">
 </div>
-
 ------------------------------------------------------------------------------------------------------------------------
 
 Specifications
