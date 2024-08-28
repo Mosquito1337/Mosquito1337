@@ -4,11 +4,7 @@
 -----[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting, Universal Coding and osint -----------------}------------------
 
 How to reach me ----> https://guns.lol/Talentueux <---- For more information
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosquito1337&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0a84ff&text_color=58a6ff" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff" alt="Top Languages">
-</div>
+
 ____ 
 
 Programming Languages
@@ -35,6 +31,11 @@ free time
 
 osint and all these varieties (csint, geoint, etc...)
 --
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=500&height=150&lines=%24+echo+%22Hacking+in+progress...%22;%24+ping+google.com+;+Scanning+network+for+vulnerabilities...;%24+Access+granted!" alt="Hacking Animation">
+</div>
+
 ------------------------------------------------------------------------------------------------------------------------
 
 Specifications
@@ -66,3 +67,8 @@ TensorFlow, neural networks, deep-learning, LLM.
 ____
 Tools-Panel / Logs / Carding / DB / Ransomwares-Backdoors / Ebooks / Dumps / and more...
 ____
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mosquito1337&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0a84ff&text_color=58a6ff" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff" alt="Top Languages">
+</div>
