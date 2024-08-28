@@ -1,16 +1,59 @@
-## Hi there 👋
+------------------------------]------------)-----#------[ 👋 Hi, I’m @Mosquito]----------------------|------{---------}---------------(-----
+------({-----|------\------/{-------------/------ 👀 I’m interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
+-----[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting, Universal Coding and osint -----------------}-----------------------
 
-<!--
-**Mosquito1337/Mosquito1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+How to reach me ----> https://guns.lol/Talentueux <---- For more information
+  
+                              💞️ I’m looking to collaborate with HackForce (EU-Anonymous)
+____ 
+Programming Languages
 
-Here are some ideas to get you started:
+Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git, golang, lua.
+--
+Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS, HTML, User Interface, React, Angular, WebAssembly, XML, JSON, REST API, Blazor.
+--
+Cybersecurity
+
+Best practices, software security, secrets management, penetration tests, fuzzing, linux
+--
+Data Processing Systems
+
+SQL, NoSQL, LINQ, Big Data, mysql.
+--
+free time
+
+osint and all these varieties (csint, geoint, etc...)
+--
+------------------------------------------------------------------------------------------------------------------------
+
+Specifications
+Functional, technical, architecture diagrams.
+
+No Code / Prompt Engineering
+Blueprint, Ink, ChatGPT, Airtable.
+
+DevOps
+Version management, GIT, Continuous Integration, UNIX, virtualisation, Kubernetes, Docker, AWS, Azure, GCP.
+
+Hardware Architecture
+Von Neumann architecture, binary arithmetic, Boolean logic, FPGA, VHDL.
+
+Infrastructure
+Network, HTTPS, Bluetooth, Wifi, LoRa, operating systems.
+
+Quality
+Unit tests, TDD, integration tests, test plan designs, stress tests.
+
+Smartphone
+React Native/Expo, Flutter, NativeScript, .NET MAUI.
+
+Video Games
+Virtual/augmented reality, retrogaming, gameplay, 2D and 3D images, raytracing, motion capture, Unity, Unreal Engine.
+
+Artificial Intelligence
+TensorFlow, neural networks, deep-learning, LLM.
+____
+Tools-Panel / Logs / Carding / DB / Ransomwares-Backdoors / Ebooks / Dumps / and more...
+____
