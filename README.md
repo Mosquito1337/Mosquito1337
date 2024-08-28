@@ -6,7 +6,8 @@
 How to reach me ----> https://guns.lol/Talentueux <---- For more information
   
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosquito1337&theme=github&bg_color=0d1117&color=58a6ff&line=0a84ff&point=58a6ff&area=true&hide_border=true&radius=12" alt="GitHub Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mosquito1337&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0a84ff&text_color=58a6ff" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff" alt="Top Languages">
 </div>
 ____ 
 
