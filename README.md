@@ -34,9 +34,8 @@ free time
 
 osint and all these varieties (csint, geoint, etc...)
 --
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=bold&size=14&duration=20&pause=500&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=650&height=120&lines=%24+Initializing+system+...;%24+Bypassing+firewall...;%24+Accessing+database...;%24+Injecting+payload+%3E%3E+Success!;%24+Encrypting+files...;%24+Log+cleared...;%24+Disconnecting..." alt="Hacker Terminal Animation">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Terminal Hacker Animation">
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
