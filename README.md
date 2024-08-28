@@ -4,6 +4,9 @@
 -----[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting, Universal Coding and osint -----------------}------------------
 
 How to reach me ----> https://guns.lol/Talentueux <---- For more information
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Terminal Hacker Animation">
+</div>
 
 ____ 
 
