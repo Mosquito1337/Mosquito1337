@@ -1,8 +1,8 @@
 
-```------------------------------]------------)-----#------[ 👋 Hi, I’m @Mosquito]----------------------|------{---------}---------------(-----
+------------------------------]------------)-----#------[ 👋 Hi, I’m @Mosquito]----------------------|------{---------}---------------(-----
 ------({-----|------\------/{-------------/------ 👀 I’m interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
 -----[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting, Universal Coding and osint -----------------}-----------------------
-```
+
 How to reach me ----> https://guns.lol/Talentueux <---- For more information
   
                               💞️ I’m looking to collaborate with HackForce (EU-Anonymous)
