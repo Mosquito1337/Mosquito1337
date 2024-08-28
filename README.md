@@ -10,27 +10,22 @@ ____
 
 Programming Languages
 Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git, golang, lua.
-
 --
 
 Web
 CSS, HTML, User Interface, React, Angular, WebAssembly, XML, JSON, REST API, Blazor.
-
 --
 
 Cybersecurity
 Best practices, software security, secrets management, penetration tests, fuzzing, linux
-
 --
 
 Data Processing Systems
 SQL, NoSQL, LINQ, Big Data, mysql.
-
 --
 
 free time
 osint and all these varieties (csint, geoint, etc...)
-
 --
 ------------------------------------------------------------------------------------------------------------------------
 
