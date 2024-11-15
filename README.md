@@ -33,6 +33,7 @@ SQL, NoSQL, LINQ, Big Data, mysql.
 free time
 
 osint and all these varieties (csint, geoint, etc...)
+Certification GOSI et GIAC Open Source Intelligence
 --
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Terminal Hacker Animation">
@@ -66,8 +67,6 @@ Virtual/augmented reality, retrogaming, gameplay, 2D and 3D images, raytracing, 
 
 Artificial Intelligence
 TensorFlow, neural networks, deep-learning, LLM.
-____
-Tools-Panel / Logs / Carding / DB / Ransomwares-Backdoors / Ebooks / Dumps / and more...
 ____
 
 <div align="center">
