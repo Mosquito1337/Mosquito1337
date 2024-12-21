@@ -12,7 +12,7 @@ ____
 
 My Programming Languages in Studing (I would like to point out that these are the languages ​​I am currently studying, so I do not have a 100% command of all of this.)
 
-Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git, golang, lua.
+Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git, lua.
 --
 
 Web
