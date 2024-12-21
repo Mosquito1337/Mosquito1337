@@ -14,9 +14,9 @@
 ------({-----|------\------/{-------------/------ 👀 I'm interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
 -----[-----)----------------- 🌱 I'm currently learning reverse enginering, pentesting, Universal Coding and osint -----------------}------------------
 
-### Advanced Reverse Engineer | Full-Stack Developer | Intelligence Specialist
+### Advanced Reverse Engineer | Full-Stack Developer 
 
-> Crafting sophisticated software solutions and pushing the boundaries of what's possible
+> I love money
 
 ## 🎮 Core Expertise & Reverse Engineering
 ```txt
