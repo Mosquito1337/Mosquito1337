@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Website-reveye.vip-blue?style=for-the-badge&logo=firefox&logoColor=white&color=58A6FF" alt="Website"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-Reverse_Engineering-red?style=for-the-badge&logo=target&logoColor=white&color=FF6B6B" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Experience-8+_Years-green?style=for-the-badge&logo=expertise&logoColor=white&color=4FC08D" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-3+_Years-green?style=for-the-badge&logo=expertise&logoColor=white&color=4FC08D" alt="Experience"/>
 </div>
 
 ------------------------------]------------)-----#------[ 👋 Hi, I'm @Mosquito]----------------------|------{---------}---------------(-----
@@ -141,37 +141,71 @@ OSINT/CSINT:
    Tech: TypeScript, NestJS, Redis
 ```
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Email-contact%40reveye.vip-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+        <a href="mailto:contact@reveye.vip">
+          <img src="https://img.shields.io/badge/Email-contact%40reveye.vip-blue?style=for-the-badge&logo=gmail&logoColor=white&color=58A6FF" alt="Email"/>
+        </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Telegram-Message-blue?style=flat-square&logo=telegram" alt="Telegram"/>
+        <a href="https://t.me/og2telegram">
+          <img src="https://img.shields.io/badge/Telegram-@og2telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram"/>
+        </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Discord-Chat-blue?style=flat-square&logo=discord" alt="Discord"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Session-Secure-blue?style=flat-square&logo=session" alt="Session"/>
+        <img src="https://img.shields.io/badge/Discord-mosquito.py-blue?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <h2>🎯 Skill Mastery</h2>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-95%25-blue?style=for-the-badge&color=58A6FF" />
-  <img src="https://img.shields.io/badge/Game_Hacking-90%25-blue?style=for-the-badge&color=58A6FF" />
-  <img src="https://img.shields.io/badge/Web_Development-85%25-blue?style=for-the-badge&color=58A6FF" />
-  <img src="https://img.shields.io/badge/OSINT-92%25-blue?style=for-the-badge&color=58A6FF" />
+  <details>
+    <summary>🔐 Session ID</summary>
+    <code>05c30e4c934cd7ce9c6b1ef361983e4e4e89435bfaad8d14196441bcbecda9864e</code>
+  </details>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Initializing+advanced+scanning...;Loading+custom+modules...;Bypassing+security+layers...;System+compromised+successfully!" alt="Hacking Animation">
+  <h2>🎯 Expertise Level</h2>
+  <table>
+    <tr>
+      <td>Reverse Engineering</td>
+      <td>
+        <img src="https://progress-bar.dev/95/?width=500&color=58A6FF" alt="RE Progress">
+      </td>
+    </tr>
+    <tr>
+      <td>Game Hacking</td>
+      <td>
+        <img src="https://progress-bar.dev/90/?width=500&color=58A6FF" alt="Game Hacking Progress">
+      </td>
+    </tr>
+    <tr>
+      <td>Web Development</td>
+      <td>
+        <img src="https://progress-bar.dev/85/?width=500&color=58A6FF" alt="Web Progress">
+      </td>
+    </tr>
+    <tr>
+      <td>OSINT</td>
+      <td>
+        <img src="https://progress-bar.dev/92/?width=500&color=58A6FF" alt="OSINT Progress">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=150&lines=Reverse+Engineer+%F0%9F%94%8D;Game+Hacker+%F0%9F%8E%AE;Web+Developer+%F0%9F%8C%90;OSINT+Specialist+%F0%9F%94%8E" alt="Skills Animation">
 </div>
 
 <div align="center">
@@ -184,5 +218,10 @@ OSINT/CSINT:
 </div>
 
 <div align="center">
+  <h3>Profile Views</h3>
   <img src="https://profile-counter.glitch.me/Mosquito1337/count.svg" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%"/>
 </div>
