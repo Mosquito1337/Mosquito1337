@@ -174,60 +174,6 @@ OSINT/CSINT:
   </details>
 </div>
 
-const SkillBar = ({ skill, percentage }) => {
-  return (
-    <div className="mb-6">
-      <div className="flex justify-between items-center mb-2">
-        <span className="text-sm font-medium text-gray-700">{skill}</span>
-        <span className="text-sm font-medium text-blue-600">{percentage}%</span>
-      </div>
-      <div className="w-full bg-gray-200 rounded-full h-2.5">
-        <div 
-          className="bg-blue-600 h-2.5 rounded-full transition-all duration-1000 ease-out"
-          style={{ 
-            width: `${percentage}%`,
-            animation: 'growWidth 1.5s ease-out'
-          }}
-        />
-      </div>
-    </div>
-  );
-};
-
-const SkillsChart = () => {
-  const skills = [
-    { name: 'Reverse Engineering', level: 75 },
-    { name: 'Game Hacking', level: 70 },
-    { name: 'Web Development', level: 85 },
-    { name: 'OSINT', level: 78 }
-  ];
-
-  return (
-    <div className="max-w-2xl mx-auto p-6 bg-white rounded-xl shadow-lg">
-      <h2 className="text-2xl font-bold text-center mb-8 text-gray-800">
-        Compétences & Expertise
-      </h2>
-      <div className="space-y-4">
-        {skills.map((skill) => (
-          <SkillBar 
-            key={skill.name} 
-            skill={skill.name} 
-            percentage={skill.level}
-          />
-        ))}
-      </div>
-      <style>{`
-        @keyframes growWidth {
-          from { width: 0% }
-          to { width: 100% }
-        }
-      `}</style>
-    </div>
-  );
-};
-
-export default SkillsChart;
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=150&lines=Reverse+Engineer+%F0%9F%94%8D;Game+Hacker+%F0%9F%8E%AE;Web+Developer+%F0%9F%8C%90;OSINT+Specialist+%F0%9F%94%8E" alt="Skills Animation">
 </div>
