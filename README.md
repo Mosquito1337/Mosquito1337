@@ -12,7 +12,7 @@
 
 ------------------------------]------------)-----#------[ 👋 Hi, I'm @Mosquito]----------------------|------{---------}---------------(-----
 ------({-----|------\------/{-------------/------ 👀 I'm interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
------[-----)----------------- 🌱 I'm currently learning cybersecurity, pentesting, Universal Coding and osint -----------------}------------------
+-----[-----)----------------- 🌱 I'm currently learning reverse enginering, pentesting, Universal Coding and osint -----------------}------------------
 
 ### Advanced Reverse Engineer | Full-Stack Developer | Intelligence Specialist
 
