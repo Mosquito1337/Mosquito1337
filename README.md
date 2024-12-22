@@ -18,7 +18,7 @@
 
 > I love money
 
-## 🎮 Core Expertise & Reverse Engineering
+## 💻 Core Expertise & Reverse Engineering
 ```txt
 Primary Languages:
 - C++ 
