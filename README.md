@@ -119,26 +119,23 @@ OSINT/CSINT:
 
 ## 🚀 Featured Projects
 ```txt
-🎯 CheatVault Market
-   Advanced marketplace for premium game modifications
+🎯 Cheat Market
+   Advanced marketplace for premium Cheat
    - Secure payment processing
    - User authentication system
    - Real-time chat support
-   Tech: React, Node.js, MongoDB, WebSocket
 
 🕵️ DataHunter Pro
    Sophisticated data intelligence platform
    - 500B+ record database access
    - Advanced search algorithms
    - Real-time data scraping
-   Tech: Vue.js, GraphQL, PostgreSQL
 
 🌐 WebStealer Suite
    Web-based security testing platform
    - Customizable payload generation
    - Secure data transmission
    - Advanced logging system
-   Tech: TypeScript, NestJS, Redis
 ```
 
 ## 🌐 Connect With Me
