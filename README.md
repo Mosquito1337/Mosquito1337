@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&duration=4000&pause=300&color=58A6FF&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Mosquito's+Lab+%F0%9F%94%AC;Hack+the+Planet+%F0%9F%8C%8D" alt="Welcome Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=header" width="100%"/>
 </div>
 
 <div align="center">
