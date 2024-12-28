@@ -181,8 +181,8 @@ OSINT/CSINT:
 
 I don't have time for repos 😢
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosquito1337&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0a84ff&text_color=58a6ff" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mosquito1337&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0a84ff&text_color=58a6ff&custom_title=My%20Awesome%20Stats&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff&langs_count=8&custom_title=My%20Top%20Languages&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
