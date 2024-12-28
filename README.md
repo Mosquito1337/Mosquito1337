@@ -14,128 +14,138 @@
 ------({-----|------\------/{-------------/------ 👀 I'm interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
 -----[-----)----------------- 🌱 I'm currently learning reverse enginering, pentesting, Universal Coding and osint ---------------
 
-### Advanced Reverse Engineer | Full-Stack Developer 
+### Advanced Reverse Engineer | OSINT Specialist | Full-Stack Developer
 
 > I love money
 
-## 💻 Core Expertise & Reverse Engineering
+## 💻 Reverse Engineering Mastery
 ```txt
-Primary Languages:
+Core Expertise:
 - C++ 
-  • Memory Manipulation & Pattern Scanning
-  • DLL & Driver Development
+  • Advanced Memory Manipulation
+  • Pattern Scanning & Signatures
+  • DLL/Driver Development
   • Anti-Cheat Bypass
+  • Custom Cheat Engine Dev
   • Game Hacking Frameworks
-  • Custom Cheat Engine Development
 
 - Assembly (x86/x64, ARM)
-  • Code Analysis & Modification
+  • Deep Code Analysis
   • Hook Implementation
-  • Shellcode Development
-  • System-Level Programming
+  • Custom Shellcode
+  • Low-Level Systems
+  • Runtime Manipulation
 
-- Lua
-  • Game Script Modification
-  • Cheat Logic Implementation
-  • Automation Framework Development
-  • Memory Scanning Scripts
+- Game Hacking
+  • Memory Structures
+  • Game Logic Mods
+  • Anti-Cheat Research
+  • Custom Trainers
+  • Automation Tools
 
-- C#
-  • Memory Reading/Writing Tools
-  • .NET Framework Exploitation
-  • Reverse Engineering Tools
-  • Game Mod Development
+Analysis Arsenal:
+- Memory: CE, Process Hacker, ReClass
+- Debug: x64dbg, WinDbg, OllyDbg
+- Static: IDA Pro, Ghidra (+ scripts)
+- Custom: Pattern scanners, injectors
+- Protection: Anti-debug bypass, VM detection
 
-Analysis & Debug Stack:
-- Memory Analysis: Cheat Engine, Process Hacker, VMware
-- Dynamic Analysis: x64dbg, WinDbg, OllyDbg, Immunity Debugger
-- Static Analysis: IDA Pro, Ghidra, Binary Ninja, Hex-Rays
-- Network: Wireshark, Fiddler, Burp Suite
-- Anti-Debug: ScyllaHide, TitanHide
-- Custom Tools: Pattern scanners, Injectors, Bypass solutions
-
-Protection Analysis:
-- Anti-cheat systems (EAC, BattlEye, VAC)
-- Virtualization-based protections
-- Code obfuscation techniques
-- Kernel-mode operations
+Anti-Cheat Experience:
+- EAC/BE/VAC Analysis
+- Detection Vectors
+- Kernel Operations
+- Bypass Methods
 ```
 
-## 🌐 Web Development Stack
+## 🔍 Intelligence & OSINT
 ```txt
-Frontend Technologies:
-- HTML5 / CSS3 (Animations, Flexbox/Grid, Responsive design)
-- JavaScript / TypeScript (ES6+, DOM manipulation)
-- React (Hooks, Context, Redux, Next.js)
-- Angular (RxJS, NgRx, Material)
-- Vue.js (Vuex, Composition API)
-- WebAssembly (Performance optimization)
-- Three.js (3D visualization)
+Specialties:
+- Digital Intelligence
+- Infrastructure Analysis
+- OSINT Automation
+- Data Correlation
+- Footprint Analysis
 
-Backend & Database:
-- Node.js (Express, NestJS, Socket.IO)
-- PHP (Laravel, Symfony)
-- SQL (MySQL, PostgreSQL, SQLite)
-- NoSQL (MongoDB, Redis, Cassandra)
-- GraphQL (Apollo, Prisma)
-- Message Queues (RabbitMQ, Redis)
-- AWS (EC2, S3, Lambda)
+Tools & Methods:
+- Custom Frameworks
+- Advanced Search
+- Data Aggregation
+- Network Mapping
+- Identity Research
 
-UI/UX & Tools:
-- Tailwind CSS / Material UI / Bootstrap
-- SASS/SCSS / Styled Components
-- Webpack / Vite / Babel
-- Docker / Kubernetes
-- Git / GitHub Actions
+Technologies:
+- Multiple APIs
+- Custom Scripts
+- Data Processing
+- Visualization Tools
 ```
 
-## 🔧 Additional Language Experience
+## 🌐 Development Stack
 ```txt
-Systems & Performance:
-- Rust (System programming, Performance optimization)
-- Golang (Networking tools, CLI applications)
-- Python (Automation, Data processing)
+Frontend:
+- JavaScript/TypeScript
+- React & Next.js
+- Vue.js & Nuxt
+- WebAssembly
+- Three.js
 
-Mobile & Cross-Platform:
-- Java/Kotlin (Android development)
-- Swift (iOS development basics)
-- Flutter (Cross-platform development)
+Backend:
+- Node.js/Express
+- PHP/Laravel
+- SQL/NoSQL
+- GraphQL
+- AWS
 
-Shell & Automation:
-- Bash/PowerShell (System automation)
-- Batch (Windows scripting)
-- PowerShell (Windows automation)
+Tools & More:
+- Docker/Kubernetes
+- Git/CI/CD
+- Modern Build Tools
+- Cloud Services
 ```
 
-## 🔍 Intelligence & Additional Skills
+## 🔧 Additional Skills
 ```txt
-OSINT/CSINT:
-- Advanced digital footprint analysis
-- Network infrastructure mapping
-- Social engineering assessment
-- GOSI & GIAC certified specialist
-- Custom OSINT automation tools
+Languages:
+- Python
+- Rust (learning)
+- Go (basics)
+
+Tools:
+- VSCode Customization
+- Shell Scripting
+- Automation
 ```
 
-## 🚀 Featured Projects
+## 🎯 Current Projects
 ```txt
-🎯 Cheat Market
-   Advanced marketplace for premium Cheat
-   - Secure payment processing
-   - User authentication system
-   - Real-time chat support
+🎮 Cheat Market
+   Premium game enhancement platform
+   - Secure payments
+   - User authentication
+   - Real-time chat
+   - Multi-game support
 
 🕵️ DataHunter Pro
-   Sophisticated data intelligence platform
-   - 500B+ record database access
-   - Advanced search algorithms
-   - Real-time data scraping
+   OSINT automation suite
+   - Data processing
+   - Search algorithms
+   - Intelligence gathering
+   - Target profiling
 
 🌐 WebStealer Suite
-   Web-based security testing platform
-   - Customizable payload generation
-   - Secure data transmission
-   - Advanced logging system
+   Security testing framework
+   - Custom payloads
+   - Secure channels
+   - Advanced logging
+```
+
+## 📚 Learning Journey
+```txt
+Currently exploring:
+- Network Security
+- Web Exploitation
+- Basic Pentesting
+- New RE Techniques
 ```
 
 ## 🌐 Connect With Me
@@ -180,9 +190,10 @@ OSINT/CSINT:
 </div>
 
 I don't have time for repos 😢
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosquito1337&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0a84ff&text_color=58a6ff&custom_title=My%20Awesome%20Stats&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff&langs_count=8&custom_title=My%20Top%20Languages&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mosquito1337&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0a84ff&text_color=58a6ff&hide=issues&show_icons=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff&langs_count=6&hide=html,css&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <div align="center">
