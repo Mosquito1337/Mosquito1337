@@ -14,7 +14,7 @@
 ------({-----|------\------/{-------------/------ 👀 I'm interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
 -----[-----)----------------- 🌱 I'm currently learning reverse enginering, pentesting, Universal Coding and osint ---------------
 
-### Advanced Reverse Engineer | OSINT Specialist | Full-Stack Developer
+### Reverse Engineer | OSINT | Full-Stack Developer
 
 > I love money
 
