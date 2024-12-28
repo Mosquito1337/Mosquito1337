@@ -144,7 +144,7 @@ Shell & Automation:
    - Advanced logging
 ```
 
-## 📚 Learning Journey
+## 📚 Learning
 ```txt
 Currently exploring:
 - Network Security
