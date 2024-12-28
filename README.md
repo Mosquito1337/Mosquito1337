@@ -57,14 +57,14 @@ Anti-Cheat Experience:
 - Bypass Methods
 ```
 
-## 🔍 Intelligence & OSINT
+## 🔍 OSINT
 ```txt
-Specialties:
-- Digital Intelligence
-- Infrastructure Analysis
-- OSINT Automation
-- Data Correlation
-- Footprint Analysis
+OSINT/CSINT:
+- Advanced digital footprint analysis
+- Network infrastructure mapping
+- Social engineering assessment
+- GOSI & GIAC certified specialist
+- Custom OSINT automation tools
 
 Tools & Methods:
 - Custom Frameworks
@@ -82,38 +82,43 @@ Technologies:
 
 ## 🌐 Development Stack
 ```txt
-Frontend:
-- JavaScript/TypeScript
-- React & Next.js
-- Vue.js & Nuxt
-- WebAssembly
-- Three.js
+Frontend Technologies:
+- HTML5 / CSS3 (Animations, Flexbox/Grid, Responsive design)
+- JavaScript / TypeScript (ES6+, DOM manipulation)
+- React (Hooks, Context, Redux, Next.js)
+- Angular (RxJS, NgRx, Material)
+- Vue.js (Vuex, Composition API)
+- WebAssembly (Performance optimization)
+- Three.js (3D visualization)
 
-Backend:
-- Node.js/Express
-- PHP/Laravel
-- SQL/NoSQL
-- GraphQL
-- AWS
+Backend & Database:
+- Node.js (Express, NestJS, Socket.IO)
+- PHP (Laravel, Symfony)
+- SQL (MySQL, PostgreSQL, SQLite)
+- NoSQL (MongoDB, Redis, Cassandra)
+- GraphQL (Apollo, Prisma)
+- Message Queues (RabbitMQ, Redis)
+- AWS (EC2, S3, Lambda)
 
-Tools & More:
-- Docker/Kubernetes
-- Git/CI/CD
-- Modern Build Tools
-- Cloud Services
+UI/UX & Tools:
+- Tailwind CSS / Material UI / Bootstrap
+- SASS/SCSS / Styled Components
+- Webpack / Vite / Babel
+- Docker / Kubernetes
+- Git / GitHub Actions
 ```
 
 ## 🔧 Additional Skills
 ```txt
 Languages:
-- Python
-- Rust (learning)
-- Go (basics)
+- Rust (System programming, Performance optimization)
+- Golang (Networking tools, CLI applications)
+- Python (Automation, Data processing)
 
-Tools:
-- VSCode Customization
-- Shell Scripting
-- Automation
+Shell & Automation:
+- Bash/PowerShell (System automation)
+- Batch (Windows scripting)
+- PowerShell (Windows automation)
 ```
 
 ## 🎯 Current Projects
@@ -125,14 +130,14 @@ Tools:
    - Real-time chat
    - Multi-game support
 
-🕵️ DataHunter Pro
+🕵️ DataLookup
    OSINT automation suite
    - Data processing
    - Search algorithms
    - Intelligence gathering
    - Target profiling
 
-🌐 WebStealer Suite
+🌐 WebStealer
    Security testing framework
    - Custom payloads
    - Secure channels
