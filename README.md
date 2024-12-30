@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,angular,vuejs,mongodb,redis,docker,kubernetes,aws,tailwind,bootstrap,graphql,sass,figma" alt="Tools and Frameworks"/>
 </div>
 
-## 💻 Reverse Engineering Mastery
+## 💻 Reverse Engineering
 ```txt
 Core Expertise:
 - C++ 
