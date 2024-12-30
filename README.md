@@ -23,12 +23,81 @@
 
 ## 💻 Programming Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css,rust,go,bash,powershell,php,lua" alt="Programming Skills"/>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
+  <a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
+  <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>
 </div>
 
-## 🔧 Tools & Frameworks
+## 🌐 Development Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,angular,vuejs,mongodb,redis,docker,kubernetes,aws,tailwind,bootstrap,graphql,sass,figma" alt="Tools and Frameworks"/>
+
+### Frontend Technologies
+<div>
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+  <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+  <a href="https://en.wikipedia.org/wiki/Vue.js"><img src="https://skillicons.dev/icons?i=vuejs" alt="Vue.js" /></a>
+  <a href="https://en.wikipedia.org/wiki/Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
+</div>
+
+- HTML5/CSS3 (Animations, Flexbox/Grid, Responsive design)  
+- JavaScript/TypeScript (ES6+, DOM manipulation)  
+- React (Hooks, Context, Redux, Next.js)  
+- Angular (RxJS, NgRx, Material)  
+- Vue.js (Vuex, Composition API)  
+- WebAssembly (Performance optimization)  
+- Three.js (3D visualization)
+
+### Backend & Database
+<div>
+  <a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://en.wikipedia.org/wiki/MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /></a>
+  <a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://en.wikipedia.org/wiki/GraphQL"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+  <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+</div>
+
+- Node.js (Express, NestJS, Socket.IO)  
+- PHP (Laravel, Symfony)  
+- SQL (MySQL, PostgreSQL, SQLite)  
+- NoSQL (MongoDB, Redis, Cassandra)  
+- GraphQL (Apollo, Prisma)  
+- Message Queues (RabbitMQ, Redis)  
+- AWS (EC2, S3, Lambda)
+
+### UI/UX & Tools
+<div>
+  <a href="https://en.wikipedia.org/wiki/Tailwind_CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
+  <a href="https://en.wikipedia.org/wiki/Material_Design"><img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" /></a>
+  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+  <a href="https://en.wikipedia.org/wiki/Webpack"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" /></a>
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://en.wikipedia.org/wiki/Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://en.wikipedia.org/wiki/Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+</div>
+
+- Tailwind CSS / Material UI / Bootstrap  
+- SASS/SCSS / Styled Components  
+- Webpack / Vite / Babel  
+- Docker / Kubernetes  
+- Git / GitHub Actions
+
 </div>
 
 ## 💻 Reverse Engineering
