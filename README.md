@@ -86,18 +86,32 @@
 - Custom Tools Development
 
 Tools:
-- Memory: CE, Process Hacker
-- Debug: x64dbg, WinDbg
+- Memory: CE, Process Hacker, ReClass
+- Debug: x64dbg, WinDbg, Cutter
 - Static: IDA Pro, Ghidra
 ```
 
 ## 🔍 OSINT Expertise
 ```txt
-- Digital Footprint Analysis
-- Network Infrastructure Mapping
-- Custom OSINT Tools Development
-- Advanced Search & Data Processing
-- Social Engineering Assessment
+OSINT/CSINT:
+- Advanced digital footprint analysis
+- Network infrastructure mapping
+- Social engineering assessment
+- GOSI & GIAC certified specialist
+- Custom OSINT automation tools
+
+Tools & Methods:
+- Custom Frameworks
+- Advanced Search
+- Data Aggregation
+- Network Mapping
+- Identity Research
+
+Technologies:
+- Multiple APIs
+- Custom Scripts
+- Data Processing
+- Visualization Tools
 ```
 
 ## 🎯 Current Projects
