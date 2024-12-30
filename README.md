@@ -194,12 +194,11 @@ Technologies:
 
 ## 🌐 Most Used Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-35%25-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-25%25-3572A5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-15%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- etc -->
+  <img src="https://img.shields.io/badge/C++-40%25-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-35%25-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-15%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Other-10%25-gray?style=for-the-badge" />
 </div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
