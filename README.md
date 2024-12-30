@@ -72,30 +72,48 @@ Anti-Cheat Experience:
 
 ## 🔍 OSINT Skills
 ```txt
-- Target profiling, Network Infrastructure Discovery
-- Custom Automation Tools for Intelligence Gathering
-- Social Engineering Analysis
+OSINT/CSINT:
+- Advanced digital footprint analysis
+- Network infrastructure mapping
+- Social engineering assessment
+- GOSI & GIAC certified specialist
+- Custom OSINT automation tools
+
+Tools & Methods:
+- Custom Frameworks
+- Advanced Search
+- Data Aggregation
+- Network Mapping
+- Identity Research
+
+Technologies:
+- Multiple APIs
+- Custom Scripts
+- Data Processing
+- Visualization Tools
 ```
 
 ## 🎯 Current Projects
 ```txt
-🎮 CheatSuite
-   Comprehensive game cheating toolkit
-   - Memory scanners
-   - Code injection modules
-   - GUI-based automation tools
+🎮 Cheat Market
+   Premium game enhancement platform
+   - Secure payments
+   - User authentication
+   - Real-time chat
+   - Multi-game support
 
-🔧 AntiCheatBypass Framework
-   Modular anti-cheat evasion SDK
-   - Kernel-level drivers
-   - Dynamic signature patching
-   - Real-time monitoring
+🕵️ DataLookup
+   OSINT automation suite
+   - Data processing
+   - Search algorithms
+   - Intelligence gathering
+   - Target profiling
 
-🌐 ExploitHub
-   A platform for sharing custom game exploit modules
-   - Community-driven
-   - Secure delivery
-   - Analytics for exploit performance
+🌐 WebStealer
+   Security testing framework
+   - Custom payloads
+   - Secure channels
+   - Advanced logging
 ```
 
 ## 📚 Learning
