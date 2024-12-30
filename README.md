@@ -23,19 +23,10 @@
 
 ## 💻 Programming Skills
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-  <a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
-  <a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-  <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
-  <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>
+  <img src="https://img.shields.io/badge/C++-35%25-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-25%25-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-15%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- etc -->
 </div>
 
 ## 🌐 Development Stack
