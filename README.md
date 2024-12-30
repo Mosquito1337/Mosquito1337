@@ -31,17 +31,43 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,angular,vuejs,mongodb,redis,docker,kubernetes,aws,tailwind,bootstrap,graphql,sass,figma" alt="Tools and Frameworks"/>
 </div>
 
-## 💻 Reverse Engineering Expertise
+## 💻 Reverse Engineering Mastery
 ```txt
 Core Expertise:
-- Advanced Memory Manipulation, Pattern Scanning, DLL/Driver Development
-- Anti-Cheat Bypass, Custom Cheat Engine Development
-- Game Hacking Frameworks and Logic Exploitation
+- C++ 
+  • Advanced Memory Manipulation
+  • Pattern Scanning & Signatures
+  • DLL/Driver Development
+  • Anti-Cheat Bypass
+  • Custom Cheat Engine Dev
+  • Game Hacking Frameworks
 
-Tools Arsenal:
-- Debugging: x64dbg, WinDbg, IDA Pro, Ghidra
-- Memory Manipulation: Cheat Engine, Process Hacker
-- Custom Tools: Injectors, Payload Generators, Anti-debug Bypasses
+- Assembly (x86/x64, ARM)
+  • Deep Code Analysis
+  • Hook Implementation
+  • Custom Shellcode
+  • Low-Level Systems
+  • Runtime Manipulation
+
+- Game Hacking
+  • Memory Structures
+  • Game Logic Mods
+  • Anti-Cheat Research
+  • Custom Trainers
+  • Automation Tools
+
+Analysis Arsenal:
+- Memory: CE, Process Hacker, ReClass
+- Debug: x64dbg, WinDbg, OllyDbg
+- Static: IDA Pro, Ghidra (+ scripts)
+- Custom: Pattern scanners, injectors
+- Protection: Anti-debug bypass, VM detection
+
+Anti-Cheat Experience:
+- EAC/BE/VAC Analysis
+- Detection Vectors
+- Kernel Operations
+- Bypass Methods
 ```
 
 ## 🔍 OSINT Skills
@@ -53,15 +79,23 @@ Tools Arsenal:
 
 ## 🎯 Current Projects
 ```txt
-🎮 Cheat Framework
-   Custom game-enhancing SDK
-   - Optimized memory access
-   - Multi-game compatibility
+🎮 CheatSuite
+   Comprehensive game cheating toolkit
+   - Memory scanners
+   - Code injection modules
+   - GUI-based automation tools
 
-🔧 Exploit Dev Suite
-   Toolchain for security analysis
-   - Automated patch bypass
-   - Signature evasion techniques
+🔧 AntiCheatBypass Framework
+   Modular anti-cheat evasion SDK
+   - Kernel-level drivers
+   - Dynamic signature patching
+   - Real-time monitoring
+
+🌐 ExploitHub
+   A platform for sharing custom game exploit modules
+   - Community-driven
+   - Secure delivery
+   - Analytics for exploit performance
 ```
 
 ## 📚 Learning
@@ -73,32 +107,7 @@ Tools Arsenal:
 
 ## 🌐 Most Used Languages
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">C++</td>
-      <td align="center">35%</td>
-    </tr>
-    <tr>
-      <td align="center">Python</td>
-      <td align="center">25%</td>
-    </tr>
-    <tr>
-      <td align="center">JavaScript</td>
-      <td align="center">15%</td>
-    </tr>
-    <tr>
-      <td align="center">Lua</td>
-      <td align="center">10%</td>
-    </tr>
-    <tr>
-      <td align="center">Rust</td>
-      <td align="center">10%</td>
-    </tr>
-    <tr>
-      <td align="center">Others</td>
-      <td align="center">5%</td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff&langs_count=8" alt="Most Used Languages"/>
 </div>
 
 ## 🌐 Connect With Me
