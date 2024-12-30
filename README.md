@@ -131,7 +131,6 @@ Currently exploring:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mosquito1337&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0a84ff&text_color=58a6ff&hide=issues&custom_title=GitHub+Stats&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff&langs_count=6" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
