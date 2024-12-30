@@ -193,9 +193,55 @@ Technologies:
 ```
 
 ## 🌐 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosquito1337&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&hide_border=true&text_color=58a6ff&langs_count=8" alt="Most Used Languages"/>
-</div>
+<svg width="400" height="280" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: 12px Arial; fill: #58a6ff; }
+    .small-text { font: 10px Arial; fill: #8b949e; }
+    .bar-bg { fill: #161b22; }
+    .bar { transform-origin: left; animation: grow 1s ease-out forwards; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  
+  <rect width="400" height="280" fill="#0d1117" rx="6"/>
+  <text x="20" y="30" class="text" style="font-size: 14px; font-weight: bold;">Most Used Languages</text>
+  
+  <!-- C++ -->
+  <text x="20" y="60" class="text">C++</text>
+  <text x="370" y="60" class="text" text-anchor="end">35%</text>
+  <rect x="20" y="70" width="350" height="8" class="bar-bg" rx="4"/>
+  <rect x="20" y="70" width="122.5" height="8" fill="#f34b7d" rx="4" class="bar"/>
+  
+  <!-- Python -->
+  <text x="20" y="100" class="text">Python</text>
+  <text x="370" y="100" class="text" text-anchor="end">25%</text>
+  <rect x="20" y="110" width="350" height="8" class="bar-bg" rx="4"/>
+  <rect x="20" y="110" width="87.5" height="8" fill="#3572A5" rx="4" class="bar"/>
+  
+  <!-- JavaScript -->
+  <text x="20" y="140" class="text">JavaScript</text>
+  <text x="370" y="140" class="text" text-anchor="end">15%</text>
+  <rect x="20" y="150" width="350" height="8" class="bar-bg" rx="4"/>
+  <rect x="20" y="150" width="52.5" height="8" fill="#f1e05a" rx="4" class="bar"/>
+  
+  <!-- Java -->
+  <text x="20" y="180" class="text">Java</text>
+  <text x="370" y="180" class="text" text-anchor="end">10%</text>
+  <rect x="20" y="190" width="350" height="8" class="bar-bg" rx="4"/>
+  <rect x="20" y="190" width="35" height="8" fill="#b07219" rx="4" class="bar"/>
+  
+  <!-- HTML/CSS -->
+  <text x="20" y="220" class="text">HTML/CSS</text>
+  <text x="370" y="220" class="text" text-anchor="end">8%</text>
+  <rect x="20" y="230" width="350" height="8" class="bar-bg" rx="4"/>
+  <rect x="20" y="230" width="28" height="8" fill="#e34c26" rx="4" class="bar"/>
+
+  <!-- Divider -->
+  <line x1="20" y1="250" x2="380" y2="250" stroke="#161b22" stroke-width="1"/>
+  
+  <!-- Footer -->
+  <text x="20" y="270" class="small-text">Total Projects: 150</text>
+  <text x="380" y="270" class="small-text" text-anchor="end">Updated: December 2024</text>
+</svg>
 
 ## 🌐 Connect With Me
 
