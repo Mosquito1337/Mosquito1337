@@ -123,9 +123,9 @@ Technologies:
 
 ## 📚 Learning
 ```txt
-- Advanced Exploit Development
-- Network Layer Manipulation
-- OS Kernel Programming
+- Web vulnerability scanning for pentests
+- Network perimeter assessment in pentests
+- Traffic analysis during pentests
 ```
 
 ## 🌐 Most Used Languages
