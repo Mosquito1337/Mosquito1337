@@ -155,7 +155,7 @@ Technologies:
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Discord-mosquito.py-blue?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord"/>
+        <img src="https://img.shields.io/badge/Discord-mosquito.uhq-blue?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord"/>
       </td>
     </tr>
   </table>
