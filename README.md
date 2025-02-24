@@ -14,10 +14,10 @@
 
 ### 👋 Hi, I'm @Mosquito
 
-👀 **I'm interested in Hacking and CyberSec**  
-🌱 **Currently learning reverse engineering, pentesting, universal coding, and OSINT**
+👀 **I'm interested in Hacking and CyberSec to make money**
+🌱 **Currently learning reverse engineering, pentesting, coding, and OSINT**
 
-### Reverse Engineer | OSINT Specialist | Full-Stack Developer
+### Reverse Engineer | OSINT master | Full-Stack Developer
 
 > "I love money"
 
