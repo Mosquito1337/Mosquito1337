@@ -116,17 +116,20 @@ Technologies:
 
 ## 🌐 Web Penetration Testing
 ```txt
+- Advanced SQL Injection (Time-based, Boolean, Error-based)
 - Web Application Vulnerability Assessment
-- Security Bypass & Exploitation Techniques
-- Authentication & Authorization Testing
-- API Security Assessment & Exploitation
+- OAuth 2.0 & JWT Exploitation Techniques
+- Authentication & Authorization Bypass
+- Server Side Request Forgery (SSRF) Chains
+- API Security Assessment & Intrusion
+- GraphQL & REST API Exploitation
 - Custom Exploit Development
 
 Tools:
 - Reconnaissance: Nmap, Shodan, Sublist3r, Amass
-- Exploitation: Burp Suite, OWASP ZAP, SQLmap, Nuclei
-- Web: Nikto, Dirsearch, Wfuzz, WPScan, Arjun
-- Custom: Python-based exploit frameworks
+- Exploitation: Burp Suite Pro, OWASP ZAP, SQLmap, Nuclei, Metasploit
+- Web: Nikto, Dirsearch, Wfuzz, WPScan, Arjun, JWT_Tool
+- Infrastructure: Masscan, EyeWitness, Aquatone, NoSQLMap
 ```
 
 ## 🎯 Current Projects
