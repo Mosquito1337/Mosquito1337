@@ -114,18 +114,26 @@ Technologies:
 - Visualization Tools
 ```
 
+## 🌐 Web Penetration Testing
+```txt
+- Web Application Vulnerability Assessment
+- Security Bypass & Exploitation Techniques
+- Authentication & Authorization Testing
+- API Security Assessment & Exploitation
+- Custom Exploit Development
+
+Tools:
+- Reconnaissance: Nmap, Shodan, Sublist3r, Amass
+- Exploitation: Burp Suite, OWASP ZAP, SQLmap, Nuclei
+- Web: Nikto, Dirsearch, Wfuzz, WPScan, Arjun
+- Custom: Python-based exploit frameworks
+```
+
 ## 🎯 Current Projects
 ```txt
 🎮 Cheat Market - Premium game cheat
 🕵️ DataLookup - OSINT/CSINT automation
 🌐 WebStealer - Best stealer on the market
-```
-
-## 📚 Learning
-```txt
-- Web vulnerability scanning for pentests
-- Network perimeter assessment in pentests
-- Traffic analysis during pentests
 ```
 
 ## 🌐 Most Used Languages
