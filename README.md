@@ -34,7 +34,6 @@
   <a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
   <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
-  <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
   <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>
 </div>
 
