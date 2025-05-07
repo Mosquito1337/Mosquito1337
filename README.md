@@ -7,9 +7,7 @@
   [![Website](https://img.shields.io/badge/Website-reveye.vip-58A6FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://reveye.vip)
   [![Focus](https://img.shields.io/badge/Focus-Reverse_Engineering-FF6B6B?style=flat-square&logo=target&logoColor=white)](https://github.com/Mosquito1337)
   
-  **:dev: | full stack developer |**
-  **| *script - config openbl - cracking software - Website/scamma* |**
-  **Bugbounty hunter**
+  **| full stack developer |**
   
   <i>« I love money »</i>
 </div>
