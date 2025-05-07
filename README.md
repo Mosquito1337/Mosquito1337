@@ -3,9 +3,13 @@
   
   # Mosquito
   
+  [![GitHub](https://img.shields.io/badge/GitHub-Mosquito1337-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Mosquito1337)
   [![Website](https://img.shields.io/badge/Website-reveye.vip-58A6FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://reveye.vip)
   [![Focus](https://img.shields.io/badge/Focus-Reverse_Engineering-FF6B6B?style=flat-square&logo=target&logoColor=white)](https://github.com/Mosquito1337)
-  [![Experience](https://img.shields.io/badge/Experience-3+_Years-4FC08D?style=flat-square&logo=expertise&logoColor=white)](https://github.com/Mosquito1337)
+  
+  **:dev: | full stack developer |**
+  **| *script - config openbl - cracking software - Website/scamma* |**
+  **Bugbounty hunter**
   
   <i>« I love money »</i>
 </div>
@@ -18,6 +22,13 @@ class Mosquito:
         self.role = "Reverse Engineer | OSINT Specialist | Full-Stack Developer"
         self.interests = ["Hacking", "CyberSec", "Reverse Engineering", "Pentesting"]
         self.learning = ["Exploit Development", "Anti-Cheat Bypass", "Advanced OSINT"]
+        self.services = {
+            "🎮 Game Cheats": "Undetected premium game hacks & bypasses",
+            "🦠 Malware": "Custom RATs, Stealers & information grabbers",
+            "🕵️ OSINT": "Advanced digital footprint & target analysis",
+            "🌐 Website": "Phishing pages, scam templates",
+            "💰 Cracking": "Software reverse engineering & license bypassing"
+        }
         self.projects = {
             "🎮 Cheat Market": "Premium game cheat",
             "🕵️ DataLookup": "OSINT/CSINT automation",
@@ -86,6 +97,38 @@ class Mosquito:
   <img src="https://img.shields.io/badge/Other-10%25-gray?style=flat-square" />
 </div>
 
+## 💸 Services For Sale
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🎮 Game Cheats</b></td>
+      <td align="center"><b>🦠 Malware Solutions</b></td>
+      <td align="center"><b>🌐 Web/Scamma</b></td>
+    </tr>
+    <tr>
+      <td>
+        • Undetected game cheats<br>
+        • Anti-cheat bypasses<br>
+        • Kernel drivers<br>
+        • ESP/Aimbot,etc.. solutions
+      </td>
+      <td>
+        • Custom RATs/Stealers<br>
+        • Info grabbers<br>
+        • Crypters/FUD<br>
+        • Undetectable payloads
+      </td>
+      <td>
+        • Phishing templates<br>
+        • Scam pages<br>
+        • Log panels<br>
+        • Full web solutions
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -93,7 +136,7 @@ class Mosquito:
     <img src="https://img.shields.io/badge/Email-contact%40reveye.vip-58A6FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/WannaCry1337">
-    <img src="https://img.shields.io/badge/Telegram-@og2telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@WannaCry1337-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-mosquito.gov-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   
