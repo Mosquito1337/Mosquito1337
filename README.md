@@ -4,7 +4,7 @@
   # Mosquito
   
   [![GitHub](https://img.shields.io/badge/GitHub-Mosquito1337-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Mosquito1337)
-  [![Website](https://img.shields.io/badge/Website-reveye.vip-58A6FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://reveye.vip)
+  [![Website](https://img.shields.io/badge/Website-reveye.vip(coming soon)-58A6FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://reveye.vip)
   [![Focus](https://img.shields.io/badge/Focus-Reverse_Engineering-FF6B6B?style=flat-square&logo=target&logoColor=white)](https://github.com/Mosquito1337)
   
   **| full stack developer |**
