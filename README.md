@@ -52,7 +52,7 @@ class Mosquito:
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,vuejs,threejs" alt="Frontend" />
   
   <p><b>Backend & Database:</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,postgresql,mongodb,graphql,aws" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,mongodb,graphql,aws" alt="Backend" />
   
   <p><b>UI/UX & Tools:</b></p>
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,sass,webpack,docker,kubernetes,git" alt="Tools" />
