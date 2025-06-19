@@ -40,7 +40,7 @@ class Mosquito:
 <summary><b>💻 Programming Languages</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,rust,go,bash,powershell,lua" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,go,powershell,lua" alt="Programming Languages" />
 </div>
 </details>
 
