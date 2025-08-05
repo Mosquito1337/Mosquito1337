@@ -82,6 +82,10 @@ TechStack = {
 
 - Telegram: [@visionVBV](https://t.me/visionVBV)  
 - Email: [contact@mosquito.com](mailto:contact@mosquito.com)
+  <details>
+    <summary>🔐 Session ID</summary>
+    <code>05c30e4c934cd7ce9c6b1ef361983e4e4e89435bfaad8d14196441bcbecda9864e</code>
+  </details>
 
 ---
 
