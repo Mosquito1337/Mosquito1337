@@ -24,7 +24,6 @@ TechStack = {
   web: ["React", "Node", "Mongo", "PostgreSQL", "Tailwind"],
   reverse: ["IDA", "x64dbg", "Ghidra", "Bypass", "Cheats"],
   automation: ["n8n", "Make", "Puppeteer", "GPT API"],
-  mindset: ["Ship Fast", "Scale Smart", "Automate Everything"]
 }
 ```
 
@@ -44,17 +43,17 @@ TechStack = {
 - Custom Exploits
 - Tools: Burp Suite Pro, SQLmap, ZAP
 
-🕵️ OSINT Automation
+🕵️ OSINT/CSINT
 - Digital Footprint Mapping
 - Infra & Network Recon
-- Scrapers
+- Database Scrapers
 ```
 
 ---
 
 ## 🛠️ Used To Work With
 
-| 💻 Code | 🌍 Web Dev | 🔐 RE / OSINT |
+| 💻 Code | 🌍 Web Dev | 🔐 RE-PE / OSINT |
 |--------|-------------|---------------|
 | C++, Python, Lua | React, Node, Mongo | IDA, Burp, CE, ZAP |
 | TS, Go, Shell | PostgreSQL, Tailwind | Ghidra, SQLmap, custom tools |
@@ -65,22 +64,21 @@ TechStack = {
 
 | 🎮 Game Cheats | 🦠 Malware Builds | 🌐 Web/Scam |
 |----------------|-------------------|--------------|
-| Undetected cheats, drivers, ESP | Custom RATs, FUD, grabbers | Phishing pages, scam templates, logs |
+| Undetected cheats, drivers | Custom RATs, FUD, grabbers | Phishing pages, scam templates, logs |
 
 ---
 
 ## 🚀 Active Projects
 
 - `AutoFlows` — AI/N8N automation  
-- `CheatMarket` — Premium private cheats  
 - `DataLookup` — OSINT/CSINT + recon toolkit  
-- `WebStealer` — Stealer 
+- `WebStealer` — Stealer
 
 ---
 
 ## 📫 Contact
 
-- Telegram: [@visionVBV](https://t.me/visionVBV)  
+- Telegram: [@visionVBV](https://t.me/visionVBV)
 - Email: [contact@mosquito.com](mailto:contact@mosquito.com)
   <details>
     <summary>🔐 Session ID</summary>
